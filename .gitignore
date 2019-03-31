@@ -1,0 +1,6 @@
+*
+!*/
+!.gitignore
+!extensions/.gitkeep
+!user-data/.gitkeep
+!user-data/User/locale.json
