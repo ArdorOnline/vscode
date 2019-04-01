@@ -32,5 +32,13 @@
         "key": "ctrl+k ctrl+left",
         "command": "-workbench.action.focusLeftGroup"
     },
+    {
+        "key": "ctrl+w ctrl+k",
+        "command": "workbench.action.focusAboveGroup"
+    },
+    {
+        "key": "ctrl+k ctrl+up",
+        "command": "-workbench.action.focusAboveGroup"
+    },
 
 ]
