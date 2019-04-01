@@ -16,5 +16,13 @@
         "key": "ctrl+k ctrl+right",
         "command": "-workbench.action.focusRightGroup"
     },
+    {
+        "key": "ctrl+w ctrl+j",
+        "command": "workbench.action.focusBelowGroup"
+    },
+    {
+        "key": "ctrl+k ctrl+down",
+        "command": "-workbench.action.focusBelowGroup"
+    },
 
 ]
