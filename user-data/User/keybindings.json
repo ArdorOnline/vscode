@@ -4,5 +4,9 @@
         "key": "ctrl+w ctrl+v",
         "command": "workbench.action.splitEditorRight"
     },
+    {
+        "key": "ctrl+w ctrl+s",
+        "command": "workbench.action.splitEditorDown"
+    },
 
 ]
