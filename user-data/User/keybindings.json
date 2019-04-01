@@ -8,5 +8,13 @@
         "key": "ctrl+w ctrl+s",
         "command": "workbench.action.splitEditorDown"
     },
+    {
+        "key": "ctrl+w ctrl+l",
+        "command": "workbench.action.focusRightGroup"
+    },
+    {
+        "key": "ctrl+k ctrl+right",
+        "command": "-workbench.action.focusRightGroup"
+    },
 
 ]
