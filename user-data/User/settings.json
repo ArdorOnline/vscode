@@ -1,5 +1,6 @@
 {
     "editor.minimap.enabled": false,
+    "files.insertFinalNewline": true,
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
     "git.ignoreMissingGitWarning": true,
 }
