@@ -45,5 +45,10 @@
         "command": "editor.action.transformToUppercase",
         "when": "editorHasSelection && editorTextFocus"
     },
+    {
+        "key": "ctrl+u",
+        "command": "editor.action.transformToLowercase",
+        "when": "editorHasSelection && editorTextFocus"
+    },
 
 ]
