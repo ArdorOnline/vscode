@@ -40,5 +40,10 @@
         "key": "ctrl+k ctrl+up",
         "command": "-workbench.action.focusAboveGroup"
     },
+    {
+        "key": "ctrl+shift+u",
+        "command": "editor.action.transformToUppercase",
+        "when": "editorHasSelection && editorTextFocus"
+    },
 
 ]
