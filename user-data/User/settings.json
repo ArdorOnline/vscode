@@ -4,6 +4,7 @@
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${activeEditorLong}",
     "git.ignoreMissingGitWarning": true,
     "[markdown]": {
         "files.trimTrailingWhitespace": false,
