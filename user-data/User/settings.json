@@ -6,6 +6,7 @@
     "files.trimTrailingWhitespace": true,
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
     "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${activeEditorLong}",
+    "workbench.editor.enablePreview": false,
     "git.ignoreMissingGitWarning": true,
     "[markdown]": {
         "files.trimTrailingWhitespace": false,
