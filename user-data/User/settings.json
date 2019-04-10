@@ -1,6 +1,7 @@
 {
     "editor.fontSize": 12,
     "editor.minimap.enabled": false,
+    "files.eol": "\n",
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
