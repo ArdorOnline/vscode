@@ -1,4 +1,5 @@
 {
+    "editor.copyWithSyntaxHighlighting": false,
     "editor.fontSize": 12,
     "editor.minimap.enabled": false,
     "files.eol": "\n",
