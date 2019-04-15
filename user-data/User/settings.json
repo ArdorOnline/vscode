@@ -12,5 +12,6 @@
     "git.ignoreMissingGitWarning": true,
     "[markdown]": {
         "files.trimTrailingWhitespace": false,
-    }
+    },
+    "markdown.preview.fontSize": 12,
 }
