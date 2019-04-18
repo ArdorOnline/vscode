@@ -1,6 +1,7 @@
 {
     "editor.copyWithSyntaxHighlighting": false,
     "editor.fontSize": 12,
+    "editor.tabSize": 4,
     "editor.minimap.enabled": false,
     "files.eol": "\n",
     "files.insertFinalNewline": true,
